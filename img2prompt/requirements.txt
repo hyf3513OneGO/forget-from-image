@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+ftfy
+regex
+tqdm
+transformers==4.21.2
+timm
+fairscale
+requests
+open_clip_torch
+Pillow
+torch
