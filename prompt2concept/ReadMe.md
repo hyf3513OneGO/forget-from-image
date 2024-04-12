@@ -7,7 +7,12 @@ Extract the style word from prompt
 ```
 pip install -r requirements.txt
 ```
-
+2. **Apply for the access to llama and login**
+```
+    1.Visit https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+    2.Apply for the access to the model(it may take 1-2 hours)
+    2.Use huggingface cli to login
+```
 2. **Creating the object of the util class**
 ```
 from prompt2concept.ner_utils import StyleExtractor
